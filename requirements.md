@@ -1,4 +1,4 @@
-#### 1. 🧑‍💼 User Authentication
+### 1. 🧑‍💼 User Authentication
 🔹 Functional Requirements
 Users must be able to register using their name, email, and password.
 
